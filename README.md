@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 # practica_github
 <<<<<<< HEAD
 
 Haru todo coooooode
+=======
+<<<<<<< HEAD
+=======
+Paula
+>>>>>>> paula
 =======
 <<<<<<< HEAD
 =======
